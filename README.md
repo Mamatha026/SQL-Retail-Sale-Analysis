@@ -1,4 +1,4 @@
-# SQL-Retail Sale Analysis --- Learned From - Zero Analyst 
+# SQL-Retail Sale Analysis --- Learned From Zero Analyst 
 ## Project Overview
 
 **Project Title**: Retail Sales Analysis  
